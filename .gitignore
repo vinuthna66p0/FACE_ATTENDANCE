@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+data/attendance.db
+data/faces/*
+data/exports/*
+models/*.onnx
